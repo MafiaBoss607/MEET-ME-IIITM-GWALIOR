@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015374601940",
+    "project_id": "friend-finder-hackathon-e9f5f",
+    "storage_bucket": "friend-finder-hackathon-e9f5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015374601940:android:a4c662c1ad1adc5c552541",
+        "android_client_info": {
+          "package_name": "com.example.friend_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhW-G-pZCRJ3UcFIoBomVxNjguIyPmfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015374601940:android:7da31c8912457ed5552541",
+        "android_client_info": {
+          "package_name": "com.example.meet_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhW-G-pZCRJ3UcFIoBomVxNjguIyPmfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
